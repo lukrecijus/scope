@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scopy.Abstractions", "Scopy.Abstractions\Scopy.Abstractions.csproj", "{C298C2BB-B24D-4664-8D5B-D6398B8C66CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scopy.Implementation", "Scopy.Implementation\Scopy.Implementation.csproj", "{01879503-F1C9-48EF-A9C4-8CA51FED9B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scopy.UnitTests", "Scopy.UnitTests\Scopy.UnitTests.csproj", "{23F7ED41-7F54-4165-A092-076E682A98ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C298C2BB-B24D-4664-8D5B-D6398B8C66CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C298C2BB-B24D-4664-8D5B-D6398B8C66CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C298C2BB-B24D-4664-8D5B-D6398B8C66CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C298C2BB-B24D-4664-8D5B-D6398B8C66CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01879503-F1C9-48EF-A9C4-8CA51FED9B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01879503-F1C9-48EF-A9C4-8CA51FED9B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01879503-F1C9-48EF-A9C4-8CA51FED9B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01879503-F1C9-48EF-A9C4-8CA51FED9B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F7ED41-7F54-4165-A092-076E682A98ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F7ED41-7F54-4165-A092-076E682A98ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F7ED41-7F54-4165-A092-076E682A98ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F7ED41-7F54-4165-A092-076E682A98ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
